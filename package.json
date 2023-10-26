@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://piyush1105.github.io/ecommerce-react",
+  "homepage": "https://piyush1105.github.io/ecommerce-react-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
